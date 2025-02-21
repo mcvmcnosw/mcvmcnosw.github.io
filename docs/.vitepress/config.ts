@@ -9,7 +9,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    socialLinks: [{icon: 'github', link: 'https://github.com/MinecraftVM'}],
+    socialLinks: [{icon: 'github', link: 'https://github.com/mcvmcnosw'}],
     logo: "/Logo.png",
     nav: [
       {
@@ -56,7 +56,7 @@ export default defineConfig({
     },
     editLink: {
       text: '在 GitHub 上编辑此页',
-      pattern: 'https://github.com/MinecraftVM/minecraftvm.github.io'
+      pattern: 'https://github.com/mcvmcnosw/mcvmcnosw.github.io'
     },
   },
 });
