@@ -15,7 +15,7 @@ hero:
       link: https://github.com/mcvmcnosw/mcvmcnosw.github.io
 
   image:
-    src: https://pic1.imgdb.cn/item/67b88512d0e0a243d4016e56.png
+    src: /logo.png
     alt: logo
 
 features:
