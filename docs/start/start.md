@@ -15,4 +15,4 @@
 
 # QQ交流群
 
-![](/qq.png)
+[![点击加入QQ群](/qq.png "点击加入QQ群")](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=k7CRHBDZ4p7LUFIFIKwOHgP1uAZpUQds&authKey=dHldQ5amPqtSixbSXAm87sqO55hV4W5Gx%2FCkRTL%2BSzhgIyOkYYUENHj9GC9PflMq&noverify=0&group_code=833515639)
